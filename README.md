@@ -29,10 +29,9 @@
 
 ### 一键创建自己的仓库
 1. 使用模板创建仓库
-2. 
 [![Use this template](https://img.shields.io/badge/GitHub-Use%20this%20template-success?logo=github)](https://github.com/new?template_name=skland_auto_login&template_owner=NatsumiXD)
 
-3. 创建“Repository secrets”
+2. 创建“Repository secrets”
 
 [![Create the secret](https://img.shields.io/badge/GitHub-Create%20the%20secret-success?logo=github)](./../../settings/secrets/actions)
 
