@@ -4,8 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     # UTC 17:00 = Asia/Shanghai 01:00 (+1 day)
-    - cron: "0 17 * * *"
-
+    - cron: "0 21 * * *"
+    - cron: "0 5 * * *"
+    - cron: "0 14 * * *"
 jobs:
   sign-in:
     runs-on: ubuntu-latest
